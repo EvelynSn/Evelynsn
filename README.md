@@ -2,7 +2,7 @@ Oi, pessoal! 🚀💡
 
 Sou uma dev back-end apaixonada pela tecnologia e pelo poder do Python. Minha jornada começou com o técnico em redes de computadores, e se ampliou construindo sistemas que são tão resistentes quanto meu amor por código. Estou sempre em busca de desafios empolgantes e novos horizontes na programação.! 💪🌟
 
-📧 Entre em contato comigo: [eay.code@gmail.com]
+📧 Entre em contato comigo: [evelyn.d3v@gmail.com]
 
 Vamos fazer grandes coisas juntos! 💻✨
 
