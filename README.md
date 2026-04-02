@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Evelyn%20Cavalcante&fontSize=42&fontColor=fff&fontAlignY=35&desc=Software%20Developer%20%7C%20UFC&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Evelyn%20Sena&fontSize=42&fontColor=fff&fontAlignY=35&desc=Software%20Developer%20%7C%20UFC&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
