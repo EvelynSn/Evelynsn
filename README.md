@@ -17,13 +17,9 @@
 ## 👩‍💻 Sobre mim
 
 ```
-Sou desenvolvedora de software formanda em **Engenharia de Software pela UFC** (conclusão em 2026), com experiência em desenvolvimento frontend e backend.
+Sou desenvolvedora de software formanda em Engenharia de Software pela UFC, com experiência em desenvolvimento frontend e backend.
 
-Atualmente lidero o time de frontend no Núcleo Especializado em Reengenharia e Desenvolvimento de Software, trabalhando com **Vue.js** e atuando como ponto de contato técnico entre equipes. Também passei pelo backend com **Node.js** na Tijuca Alimentos, onde desenvolvi e mantive funcionalidades em sistemas reais.
-
-Estou expandindo meu stack com **Java e Spring Boot**, e tenho inglês técnico para leitura e compreensão auditiva.
-
-Gosto de entender o problema antes de partir para a solução. 💡
+Atualmente faço parte do time de frontend no Núcleo Especializado em Reengenharia e Desenvolvimento de Software, trabalhando com **Vue.js** e atuando como ponto de contato técnico entre equipes. Estou expandindo meu stack com **Java e Spring Boot**, e tenho inglês técnico para leitura e compreensão auditiva.
 
 ```
 
@@ -80,15 +76,6 @@ Gosto de entender o problema antes de partir para a solução. 💡
 
 ---
 
-## 💼 Experiência em destaque
-
-🔹 **Tech Lead Frontend** — Núcleo Especializado em Reengenharia e Desenvolvimento de Software *(2025 – atual)*
-> Liderança do time frontend com Vue.js, organização de entregas e comunicação técnica entre equipes.
-
-🔹 **Desenvolvedora Backend (Estágio)** — Tijuca Alimentos *(Mai – Ago 2023)*
-> Desenvolvimento com Node.js, manutenção de sistemas e integração com banco de dados relacional.
-
----
 
 <div align="center">
 
