@@ -16,19 +16,15 @@
 
 ## 👩‍💻 Sobre mim
 
-```java
-public class Evelyn extends Developer {
+```
+Sou desenvolvedora de software formanda em **Engenharia de Software pela UFC** (conclusão em 2026), com experiência em desenvolvimento frontend e backend.
 
-    String[] roles     = { "Frontend Dev", "Backend Dev", "Tech Lead (Frontend)" };
-    String   education = "Engenharia de Software — UFC (2026)";
-    String[] learning  = { "Java", "Spring Boot" };
-    String   english   = "Technical reading & listening";
-    String   goal      = "Analista de TI | Sustentação de Software";
+Atualmente lidero o time de frontend no Núcleo Especializado em Reengenharia e Desenvolvimento de Software, trabalhando com **Vue.js** e atuando como ponto de contato técnico entre equipes. Também passei pelo backend com **Node.js** na Tijuca Alimentos, onde desenvolvi e mantive funcionalidades em sistemas reais.
 
-    String motto() {
-        return "Entender o problema antes de partir para a solução. 💡";
-    }
-}
+Estou expandindo meu stack com **Java e Spring Boot**, e tenho inglês técnico para leitura e compreensão auditiva.
+
+Gosto de entender o problema antes de partir para a solução. 💡
+
 ```
 
 ---
