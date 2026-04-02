@@ -32,7 +32,7 @@ Atualmente faço parte do time de frontend no Núcleo Especializado em Reengenha
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-db7093?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-c71585?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-c71585?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks & Bibliotecas
 ![Vue.js](https://img.shields.io/badge/Vue.js-ff69b4?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -56,9 +56,7 @@ Atualmente faço parte do time de frontend no Núcleo Especializado em Reengenha
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=EvelynSn&show_icons=true&theme=radical&bg_color=fff0f5&title_color=c71585&icon_color=ff69b4&text_color=db7093&border_color=ffb6c1&hide_border=false"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvelynSn&layout=compact&theme=radical&bg_color=fff0f5&title_color=c71585&text_color=db7093&border_color=ffb6c1"/>
+<img src="https://streak-stats.demolab.com?user=EvelynSn&theme=radical&background=fff0f5&ring=c71585&fire=ff69b4&currStreakLabel=db7093&sideLabels=db7093&dates=db7093&sideNums=c71585&currStreakNum=c71585&border=ffb6c1" alt="GitHub Streak"/>
 
 </div>
 
