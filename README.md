@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
 ```
 Sou desenvolvedora de software formanda em Engenharia de Software pela UFC, com experiência em desenvolvimento frontend e backend.
@@ -25,17 +25,18 @@ Atualmente faço parte do time de frontend no Núcleo Especializado em Reengenha
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-db7093?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-c71585?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-db7093?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Bibliotecas
 ![Vue.js](https://img.shields.io/badge/Vue.js-ff69b4?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-db7093?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-db7093?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-c71585?style=for-the-badge&logo=springboot&logoColor=white)
 
@@ -53,7 +54,7 @@ Atualmente faço parte do time de frontend no Núcleo Especializado em Reengenha
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=EvelynSn&theme=radical&background=fff0f5&ring=c71585&fire=ff69b4&currStreakLabel=db7093&sideLabels=db7093&dates=db7093&sideNums=c71585&currStreakNum=c71585&border=ffb6c1" alt="GitHub Streak"/>
@@ -62,7 +63,7 @@ Atualmente faço parte do time de frontend no Núcleo Especializado em Reengenha
 
 ---
 
-## 🌱 Atualmente aprendendo
+##  Atualmente aprendendo
 
 <div align="center">
 
